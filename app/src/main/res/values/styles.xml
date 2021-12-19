@@ -9,11 +9,19 @@
         <!--Removing actionbar-->
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:editTextColor">@color/yellow</item>
+        <item name="android:textColorHint">@color/yellow</item>
     </style>
 
     <style name="ToolbarTheme" parent="ThemeOverlay.MaterialComponents.ActionBar">
         <item name="android:textColorPrimary">@android:color/white</item>
         <item name="android:textColorSecondary">#EEEEEE</item>
     </style>
+
+
+
 
 </resources>
