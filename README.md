@@ -1,17 +1,5 @@
-# RickAndMorty - Android Architecture Sample
-
-<img align="right" src="https://github.com/sberoch/RickAndMorty-AndroidArchitectureSample/raw/master/assets/characters.jpg" width="200">
-
-A Rick And Morty simple app that loads information from [The Rick and Morty API](https://rickandmortyapi.com/) to show one approach to using some of the best practices in Android Development. Including:  
- * ViewModel
- * LiveData
- * Hilt (for dependency injection)
- * Kotlin Coroutines
- * Retrofit
- * Room
- * Navigation
- 
- ## You should also take a look at
- * [Guide to app architecture](https://developer.android.com/jetpack/guide)
- * [Android architecture samples](https://github.com/android/architecture-samples)
- * [Eli-Fox LEGO Catalog project](https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7)
+#Star Wars
+![Screenshot_1639998431](https://user-images.githubusercontent.com/53172316/146774248-f70ec75a-8e7e-4a49-af71-75c0bb8d2590.png)
+![Screenshot_1640000291](https://user-images.githubusercontent.com/53172316/146774260-42cb0914-1977-4e21-a01c-6a0e56188bd1.png)
+![Screenshot_1640005826](https://user-images.githubusercontent.com/53172316/146774272-c2d7bd26-8a1b-42ba-8b20-b1e34a586bb4.png)
+![Screenshot_1640007039](https://user-images.githubusercontent.com/53172316/146774495-a29ab6bc-13e1-48f4-8a46-bc02dc9cd42f.png)
